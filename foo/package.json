@@ -1,0 +1,16 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backgrounder": "^0.2.7",
+    "node-libcurl": "^0.9.0",
+    "socks": "^1.1.9"
+  }
+}
