@@ -23,31 +23,6 @@ var worker = BG.spawn(__dirname + "/lib/scraper.js", {"children-count" : C.worke
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 pool.map(function (url)
 {
